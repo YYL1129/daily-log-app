@@ -9,7 +9,7 @@ from datetime import datetime
 import base64
 
 # Set storage folder (you can map this to OneDrive on your PC if you run locally)
-SAVE_DIR = "notes"
+SAVE_DIR = "https://advanceit8-my.sharepoint.com/:f:/g/personal/zeusyee1247_advanceit8_onmicrosoft_com/EtsQJWf4MiVFpJkm7Q4slzMBSpCliMU3Isnrk9iPrmKdZg?e=cxipm5"
 os.makedirs(SAVE_DIR, exist_ok=True)
 
 st.title("🗒️ Daily Work Log")
